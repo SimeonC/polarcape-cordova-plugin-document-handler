@@ -23,7 +23,7 @@
     "pdf"
   ],
   "peerDependencies": {
-    "cordova-plugin-file": "^4.0.0"
+    "cordova-plugin-file": "^4.0.0 || ^5.0.0"
   },
   "author": "Polar Cape <info@polarcape.com> (http://polarcape.com/)",
   "license": "MIT",
